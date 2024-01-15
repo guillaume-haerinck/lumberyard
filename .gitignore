@@ -1,0 +1,16 @@
+3rdParty/*
+dev/Solutions/*
+dev/BinTemp/*
+dev/Bin64/*
+dev/Bin64vc141/*
+dev/Bin64vc141.Debug/*
+dev/Bin64vc142/*
+dev/Cache/*
+
+*.pyc
+*.log
+*.pdb
+*.exe
+
+filehashes.json
+SetupAssistant.bat
